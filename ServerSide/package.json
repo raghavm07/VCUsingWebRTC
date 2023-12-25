@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.2",
+    "socket.io": "^4.7.2"
+  },
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "Serverside for VC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Raghav",
+  "license": "ISC"
+}
