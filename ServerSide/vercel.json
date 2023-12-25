@@ -15,5 +15,7 @@
       "src": "/room/:roomId",
       "dest": "/"
     }
-  ]
+  ],
+
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
